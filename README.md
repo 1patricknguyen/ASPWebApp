@@ -13,7 +13,7 @@ Grocery List Tracker is a CRUD (Create, Read, Update, Delete) application built 
 
 - **Frontend**: React.js
 - **Backend**: ASP.NET Core Web API
-- **Database**: SQL Server (or any preferred relational database)
+- **Database**: SQL Server (Entity Framework as ORM using SQLite)
 - **IDE**: Visual Studio or Visual Studio Code
 
 ## Installation
