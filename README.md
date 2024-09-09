@@ -21,4 +21,4 @@ Grocery List Tracker is a CRUD (Create, Read, Update, Delete) application built 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/grocery-list-tracker.git
+   git clone https://github.com/1patricknguyen/grocery-list-tracker.git
